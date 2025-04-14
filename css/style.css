@@ -1,0 +1,4 @@
+.row-centralizada{
+    display: flex;
+    justify-content: center;
+}
